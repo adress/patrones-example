@@ -1,4 +1,4 @@
-# Clean Code y SOLID
+# Patrónes de diseño
 
 Este es un repositorio basado en el curso de Udemy [Patrones de Diseño Java](https://www.udemy.com/course/patrones-de-diseno-java/) 
 
@@ -10,7 +10,7 @@ Los patrones de diseño se pueden dividir en los siguientes tres grupos
 - Estructurales
 - Comportamiento
 
-## Patones Creacionales
+## Patrónes Creacionales
 
 - **Factory Method** (permite crear objetos concretos a partir de una superclase)
 - **Abstract Factory** (permite crear familia de objetos)
@@ -18,7 +18,7 @@ Los patrones de diseño se pueden dividir en los siguientes tres grupos
 - **Prototype** (Permite clonar objetos)
 - **Singleton** (única instancia)
 
-## Patones Estructurales
+## Patrónes Estructurales
 
 - **Adapter** (permite trabajar con objetos que inicialmente son incompatibles)
 - **Bridge** (divide en abstracción e implementación)
@@ -28,7 +28,7 @@ Los patrones de diseño se pueden dividir en los siguientes tres grupos
 - **Flyweigth** (Ahorra recursos compartiendo información común)
 - **proxy** (controla el acceso a un objeto)
 
-## Patones de Comportamiento
+## Patrónes de Comportamiento
 
 - **Chain of responsability** (permite manejar solicitudes a lo largo de una cadena)
 - **Command** (Convierte la solicitud en un nuevo objeto)
